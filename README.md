@@ -1,4 +1,4 @@
-# Cub3D\
+# Cub3D
 ##subject\
 School 42 provide us with it's MacOS MiniLibX window management library that allows to open windows and draw in it.\
 With it we had to make our own graphical engine based on RayCasting technology. Kinda like id Software's 1992 first person Shooter [Wolfenstein 3D](http://users.atw.hu/wolf3d/).\
@@ -31,4 +31,4 @@ Configs are:\
 **SO** south wall texture;\
 **S** sprite texture;\
 **C** ceiling color;\
-**F** floor color;\
+**F** floor color;
