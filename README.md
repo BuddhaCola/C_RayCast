@@ -22,10 +22,23 @@ A big part of a job was to make a perfect map file parser. The rules are:\
 Valid map file example
 ## **Usage:**
 This is Makefile project\
-Clone it, cd into and and enter\
-"$ make"\
+Clone it
+```
+git clone https://github.com/BuddhaCola/Cub3D.git
+```
+cd into
+```
+cd Cub3D
+```
+and compile
+```
+make
+```
 then launch by entering\
-"$ ./cub3D <map>.cub", replacing <map>.cub with a map file (repository includes two: wolf.cub and bobville.cub)\
+"$ ./cub3D <map>.cub", replacing <map>.cub with a map file (repository includes two: wolf.cub and bobville.cub)
+```
+./cub3D wolf.cub
+```
 Maps consists of config lines starts with a key upeercase letter and map itself after those.\
 Configs are:\
 **R** resolution\
